@@ -1,0 +1,7 @@
+Release Notes for Version 1.0.0
+-------------------------------------
+
+Dated : 31-october-2020
+Author: Jim Isaac
+Description: A basic version of txt2openlyrics which will convert a simple txt lyric file into openlyrics xml standard file
+------------------------------------------------------------------------------------------------------------------------
